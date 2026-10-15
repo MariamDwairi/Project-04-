@@ -7,7 +7,7 @@ This project is a personal portfolio website created using HTML, CSS, and JavaSc
 
 The website includes light and dark themes to provide different visual experiences.
 
-<b>Features<b>
+<h2>Features<h2>
 
 1-Responsive navigation bar
 
